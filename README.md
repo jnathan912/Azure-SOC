@@ -68,6 +68,9 @@ Stop Time	2024-06-20 23:02
 | SecurityIncident         | 0
 | NSG Inbound Malicious Flows Allowed | 0
 
+![image](https://github.com/user-attachments/assets/e940e227-2039-4286-8920-63122bd0c3a9)
+
+
 ## Conclusion
 
 In this project, a mini honeynet was constructed in Microsoft Azure and log sources were integrated into a Log Analytics workspace. Microsoft Sentinel was employed to trigger alerts and create incidents based on the ingested logs. Additionally, metrics were measured in the insecure environment before security controls were applied, and then again after implementing security measures. It is noteworthy that the number of security events and incidents were drastically reduced after the security controls were applied, demonstrating their effectiveness.
