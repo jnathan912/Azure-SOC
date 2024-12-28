@@ -35,6 +35,19 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 ![image](https://github.com/user-attachments/assets/d6e3a6d7-9418-40c1-ba94-69e1c9be6296)<br>
 ![image](https://github.com/user-attachments/assets/8fedae24-a7c0-4752-9fc4-98b89c8219fa)<br>
 ![image](https://github.com/user-attachments/assets/993d00f2-ef9a-4bbe-b2c6-1e1fe8d12f12)<br>
+![image](https://github.com/user-attachments/assets/fad25459-3d37-4e35-99bc-156b03ae25bf)
+
+
+## Microsoft Sentinel SIEM with KQL queries
+I automated security alerting and incident management using Microsoft Sentinel SIEM with KQL queries to create alert rules, generating actionable incidents.
+
+![image](https://github.com/user-attachments/assets/175448d7-b5f3-4fce-9af9-b0f5a5b8cc6f)
+![image](https://github.com/user-attachments/assets/184b44f4-2786-4a92-b93d-b8504e39798d)
+
+I worked on incidents using the NIST 800-61 Incident Management Lifecycle, improving visibility into security events across the cloud environment, and enabling faster identification and mitigation of potential threats.
+
+![image](https://github.com/user-attachments/assets/472fbaa7-d396-4f61-a607-0909b523ad2b)
+
 
 ## Metrics Before Hardening / Security Controls
 
@@ -51,7 +64,17 @@ Stop Time 2024-06-19 13:54
 | NSG Inbound Malicious Flows Allowed | 1808
 
 
+## Enhanced cloud security using Microsoft Defender
+
+Enhanced cloud security posture by enabling Microsoft Defender for Cloud and its regulatory compliance features (NIST 800-83), securing resources with private endpoints, virtual network restrictions, and firewalls to block public access.
+
+![image](https://github.com/user-attachments/assets/9ba6e854-f9cf-4dc5-8514-66a1dd0cbf85)
+![image](https://github.com/user-attachments/assets/fda85ef3-a078-4960-9b38-4ed753aaa0f4)
+
+
 ## Metrics After Hardening / Security Controls
+
+![image](https://github.com/user-attachments/assets/503d4974-d528-4a3a-b2a8-3980786d2368)
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
 Start Time 2024-06-19 23:02
